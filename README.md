@@ -23,7 +23,7 @@ If you'd like to run this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-    git clone https://github.com/OmRasal17/Faclon-Frontend.git
+    git clone https://github.com/HarshalBhosle/faclonFrontend.git
     cd Faclon-Frontend
    ```
 
